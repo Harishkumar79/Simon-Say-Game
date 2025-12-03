@@ -1,1 +1,1 @@
-console.log("Learnig git branch operations");
+console.log("Git branch operations");
