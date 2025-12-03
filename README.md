@@ -1,2 +1,2 @@
 # Simon Game
-Play to enjoy.
+Play and check your memory.
